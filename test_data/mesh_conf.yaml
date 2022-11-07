@@ -1,0 +1,8 @@
+mesh_file: "./test_data/scene0010_00_37_mesh.ply" # path to pcd file
+sample_count: 256 # Specify the sample times when rendering, the higher the better
+width: 1080 # rendered image width, default 1920
+height: 1920 # rendered image height, default 1080
+camera_file: './test_data/camera.xml' # set null to use default camera
+camera_scale: 1.5
+# camera_file: null
+mesh_color: 'orange' # mesh color when rendering

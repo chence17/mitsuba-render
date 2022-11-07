@@ -1,0 +1,8 @@
+dataset
+results
+dataset_results
+meshes
+!doc/copy_camera.png
+!doc/paste_camera.png
+!test_data/scene0010_00_37_mesh.png
+!test_data/scene0010_00_37_pcd.png
